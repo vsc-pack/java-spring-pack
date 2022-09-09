@@ -1,0 +1,20 @@
+{
+  "name": "java-spring-pack",
+  "displayName": "java-spring-pack",
+  "description": "Java Development with Spring",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "vscjava.vscode-java-pack",
+    "vscjava.vscode-gradle",
+    "vscjava.vscode-lombok",
+    "Pivotal.vscode-boot-dev-pack",
+    "sohibe.java-generate-setters-getters",
+    "zerodind.familiar-java-themes"
+  ]
+}
